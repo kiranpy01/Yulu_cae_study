@@ -88,8 +88,10 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 |4| Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog|
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python]()
-- You can access the complete Casestudy in pdf format here - [Report]()
+- You can access the complete Case python file here - [Python](
+https://github.com/kiranpy01/Yulu_cae_study/blob/main/Yulu_case_study.ipynb)
+- You can access the complete Casestudy in pdf format here - [Report](
+https://github.com/kiranpy01/Yulu_cae_study/blob/main/Yulu_case_study.pdf)
 
     
 -----
